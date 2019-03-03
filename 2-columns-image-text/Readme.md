@@ -26,4 +26,6 @@ _Some complications_:
 
 * `.container` grid properties which sets the columns restrict the width of the blocks and therefore there is no worries the images will expand their containers width. 
 
-* Another approach accomplishing the same results is given in [CSS - Expand float child DIV height to parent's height](https://stackoverflow.com/questions/4804581/css-expand-float-child-div-height-to-parents-height)
+* Another approach accomplishing the same results is given in [HTML/CSS set div to height of sibling](https://stackoverflow.com/a/29897803)
+
+* One more similar to the earlier approach is [CSS - Expand float child DIV height to parent's height](https://stackoverflow.com/questions/4804581/css-expand-float-child-div-height-to-parents-height)
